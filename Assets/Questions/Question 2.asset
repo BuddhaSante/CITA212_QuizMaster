@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb2d456b467e9f04dbbbbc0cdf8a28f4, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: "2.\tWhat is the name of Ryu\u2019s famous fireball attack in Street
-    Fighter?"
+  question: "What is the name of Ryu\u2019s famous fireball attack in Street Fighter?"
   answers:
   - Tatsumaki Senpukyaku
   - Shoryuken
