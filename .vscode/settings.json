@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CITA212_QuizMaster.sln"
+    "dotnet.defaultSolution": "CITA212_QuizMaster.sln",
+    "dotnet.preferCSharpExtension": true
 }
